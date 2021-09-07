@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="348" viewBox="0 0 30 348">
+  <g id="Group_3524" data-name="Group 3524" transform="translate(-37 -536)">
+    <g id="Group_3516" data-name="Group 3516">
+      <rect id="Rectangle_1582" data-name="Rectangle 1582" width="5" height="333" transform="translate(50 536)" fill="#999"/>
+    </g>
+    <g id="Group_3523" data-name="Group 3523">
+      <g id="Group_3513" data-name="Group 3513">
+        <circle id="Ellipse_114" data-name="Ellipse 114" cx="15" cy="15" r="15" transform="translate(37 755)" fill="#999"/>
+        <text id="_3" data-name="3" transform="translate(48 776)" font-size="16" font-family="Heebo-Bold, Heebo" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_3515" data-name="Group 3515">
+        <circle id="Ellipse_115" data-name="Ellipse 115" cx="15" cy="15" r="15" transform="translate(37 854)" fill="#999"/>
+        <text id="_4" data-name="4" transform="translate(47 874)" font-size="16" font-family="Heebo-Bold, Heebo" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <g id="Group_3521" data-name="Group 3521" fill="#ffd101">
+        <g id="Group_3512" data-name="Group 3512" transform="translate(0 2)"  fill="#ffd101">
+          <circle id="Ellipse_107" data-name="Ellipse 107" cx="15" cy="15" r="15" transform="translate(37 566)" fill="#ffd101"/>
+          <g id="check" transform="translate(43 518.873)">
+            <g id="Group_3506" data-name="Group 3506" transform="translate(0 56.35)">
+              <path id="Path_27061" data-name="Path 27061" d="M18.636,56.678a1.074,1.074,0,0,0-1.519-.026l-.026.026L7.508,67.008,1.821,61.321A1.074,1.074,0,0,0,.3,62.841l6.447,6.447a1.074,1.074,0,0,0,1.519,0L18.609,58.2A1.075,1.075,0,0,0,18.636,56.678Z" transform="translate(0 -56.35)" fill="#000"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3522" data-name="Group 3522" transform="translate(0 -91)">
+        <circle id="Ellipse_114-2" data-name="Ellipse 114" cx="15" cy="15" r="15" transform="translate(37 755)" fill="#999"/>
+        <text id="_2" data-name="2" transform="translate(48 776)" font-size="16" font-family="Heebo-Bold, Heebo" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_1586" data-name="Rectangle 1586" width="5" height="33" transform="translate(50 536)" fill="#ffd101"/>
+  </g>
+</svg>

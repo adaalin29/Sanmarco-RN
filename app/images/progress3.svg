@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="367" viewBox="0 0 30 367">
+  <g id="Group_3532" data-name="Group 3532" transform="translate(-38 -536)">
+    <g id="Group_3530" data-name="Group 3530">
+      <g id="Group_3524" data-name="Group 3524">
+        <g id="Group_3523" data-name="Group 3523">
+          <g id="Group_3521" data-name="Group 3521">
+            <g id="Group_3518" data-name="Group 3518">
+              <path id="Path_27073" data-name="Path 27073" d="M0,0H5V333H0Z" transform="translate(50 536)" fill="#999"/>
+            </g>
+          </g>
+          <rect id="Rectangle_1583" data-name="Rectangle 1583" width="5" height="131" transform="translate(50 536)" fill="#ffd101"/>
+        </g>
+      </g>
+      <g id="Group_3529" data-name="Group 3529">
+        <g id="Group_3528" data-name="Group 3528" transform="translate(9 -12)">
+          <circle id="Ellipse_107" data-name="Ellipse 107" cx="15" cy="15" r="15" transform="translate(29 580)" fill="#ffd101"/>
+          <path id="Path_27061" data-name="Path 27061" d="M18.636,56.678a1.074,1.074,0,0,0-1.519-.026l-.026.026L7.508,67.008,1.821,61.321A1.074,1.074,0,0,0,.3,62.841l6.447,6.447a1.074,1.074,0,0,0,1.519,0L18.609,58.2A1.075,1.075,0,0,0,18.636,56.678Z" transform="translate(35 532.873)"/>
+        </g>
+        <g id="Group_3525" data-name="Group 3525" transform="translate(1 98)">
+          <circle id="Ellipse_107-2" data-name="Ellipse 107" cx="15" cy="15" r="15" transform="translate(37 566)" fill="#ffd101"/>
+          <g id="check" transform="translate(43 518.873)">
+            <g id="Group_3506" data-name="Group 3506" transform="translate(0 56.35)">
+              <path id="Path_27061-2" data-name="Path 27061" d="M18.636,56.678a1.074,1.074,0,0,0-1.519-.026l-.026.026L7.508,67.008,1.821,61.321A1.074,1.074,0,0,0,.3,62.841l6.447,6.447a1.074,1.074,0,0,0,1.519,0L18.609,58.2A1.075,1.075,0,0,0,18.636,56.678Z" transform="translate(0 -56.35)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3527" data-name="Group 3527" transform="translate(-30 186)">
+          <circle id="Ellipse_107-3" data-name="Ellipse 107" cx="15" cy="15" r="15" transform="translate(68 570)" fill="#ffd101"/>
+          <g id="Group_3506-2" data-name="Group 3506" transform="translate(73 579.223)">
+            <path id="Path_27061-3" data-name="Path 27061" d="M18.636,56.678a1.074,1.074,0,0,0-1.519-.026l-.026.026L7.508,67.008,1.821,61.321A1.074,1.074,0,0,0,.3,62.841l6.447,6.447a1.074,1.074,0,0,0,1.519,0L18.609,58.2A1.075,1.075,0,0,0,18.636,56.678Z" transform="translate(0 -56.35)"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_27074" data-name="Path 27074" d="M0,0H5V65.866H0Z" transform="translate(50 691.26)" fill="#ffd101"/>
+    </g>
+    <g id="Group_3531" data-name="Group 3531">
+      <circle id="Ellipse_115" data-name="Ellipse 115" cx="15" cy="15" r="15" transform="translate(38 850)" fill="#999"/>
+      <text id="_4_" data-name="4
+" transform="translate(48 871)" font-size="16" font-family="Heebo-Bold, Heebo" font-weight="700"><tspan x="0" y="0">4</tspan><tspan x="0" y="25"></tspan></text>
+    </g>
+  </g>
+</svg>
